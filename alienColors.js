@@ -13,3 +13,4 @@ else if (alienColors == "Red") {
 else {
     console.log("You just earned no points");
 }
+
